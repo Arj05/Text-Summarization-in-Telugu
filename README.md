@@ -10,8 +10,7 @@ This project focuses on developing a text summarization tool specifically for th
 - [Usage](#usage)
 - [Example](#example)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
